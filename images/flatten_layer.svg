@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="142.84302mm"
+   height="69.58889mm"
+   viewBox="0 0 142.84302 69.58889"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="flatten_layer.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1003"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="251.8514"
+     inkscape:cy="88.52324"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1316"
+     inkscape:window-height="704"
+     inkscape:window-x="50"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1414"
+       originx="-55.213523"
+       originy="-215.74321" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-55.213525,-11.667906)">
+    <g
+       id="g1427"
+       inkscape:export-xdpi="94"
+       inkscape:export-ydpi="94">
+      <rect
+         transform="matrix(0.8660254,-0.5,0,1,0,0)"
+         y="64.383224"
+         x="64.158051"
+         height="34.962799"
+         width="40.371563"
+         id="rect815"
+         style="opacity:0.95;fill:#ffeeee;fill-opacity:1;stroke:#ff0000;stroke-width:0.80592746;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="matrix(0.8660254,-0.5,0,1,0,0)"
+         y="71.899178"
+         x="74.087273"
+         height="34.962799"
+         width="40.371563"
+         id="rect815-6"
+         style="opacity:0.95;fill:#ffeeee;fill-opacity:1;stroke:#ff0000;stroke-width:0.80592746;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="matrix(0.8660254,-0.5,0,1,0,0)"
+         y="81.570999"
+         x="85.871407"
+         height="34.962799"
+         width="40.371563"
+         id="rect815-7"
+         style="opacity:0.95;fill:#ffeeee;fill-opacity:1;stroke:#ff0000;stroke-width:0.80592746;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text912"
+         y="80.41964"
+         x="61.988098"
+         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:6.3499999px;stroke-width:0.26458332"
+           y="80.41964"
+           x="61.988098"
+           id="tspan910"
+           sodipodi:role="line">[31, 31, 64]</tspan></text>
+      <rect
+         y="42.395237"
+         x="127.75596"
+         height="10.961308"
+         width="69.925591"
+         id="rect954"
+         style="opacity:0.95;fill:#ffeeee;fill-opacity:1;stroke:#ff0000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text912-5"
+         y="62.153793"
+         x="150.69881"
+         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:6.3499999px;stroke-width:0.26458332"
+           y="62.153793"
+           x="150.69881"
+           id="tspan910-3"
+           sodipodi:role="line">[61504]</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path974"
+         d="m 90.56009,47.08011 c 35.42185,0.07791 35.42185,0.07791 35.42185,0.07791"
+         style="fill:none;stroke:#000000;stroke-width:0.85299999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
+      <text
+         id="text912-5-5"
+         y="39.324036"
+         x="151.76649"
+         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:6.3499999px;stroke-width:0.26458332"
+           y="39.324036"
+           x="151.76649"
+           id="tspan910-3-6"
+           sodipodi:role="line">Flatten</tspan></text>
+    </g>
+  </g>
+</svg>

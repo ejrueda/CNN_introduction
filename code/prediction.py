@@ -21,5 +21,6 @@ class cnn_images_10:
         img_procesada = np.asarray(image).reshape((1,100,100,3))
         prediction = self.model(img_procesada)
         indice = np.argmax(prediction)
+        proba = prediction
         y_predict = self.translate[self.class_names[indice]]
-        return y_predict
+        return y_predict, proba
